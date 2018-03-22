@@ -1,4 +1,4 @@
-# teammate_cisuM
+# ataDateM_cisuM
 Music metadata generator
 
 This program was created by 4 students at UW Stout in a small agile development project. It takes a folder of MP3 files,
